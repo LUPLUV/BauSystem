@@ -1,0 +1,10 @@
+name: BauSystem
+version: 1.0
+depend: [Multiverse-Core]
+api-version: 1.17
+author: lupu
+main: de.lupu.bs.BauSystem
+
+commands:
+  edit:
+  build:
